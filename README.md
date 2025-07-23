@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rohithddj
+- 👋 Hi, I’m @Sathishkumar
    PYTHON PROJECT 💻💻💻
 CHESS BOARD,PY
